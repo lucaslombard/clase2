@@ -1,4 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
 .letra-separada{
 	letter-spacing: 15px;
 	font-weight: bold;
+}
+
+.principal {
+	height: 480px;
+	background-image: url(http://www.intrawallpaper.com/static/images/Colorful-Background1_0O14Rlw.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+h1 {
+	line-height: 480px;
+	margin: 0;
+	font-size: 25px;
 }
